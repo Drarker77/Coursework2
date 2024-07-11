@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- creates a root element "groupcourseorkassessmenttasks"-->
+<groupcourseworkassessmenttasks>
+    <!-- root element contains sub elements divided as task 1,2,3 and 4-->
+    <task1>
+        <!-- Details task on git and GitHub-->
+        <title lang = "en">git and GitHub</title>
+        <author gender="female &amp; male" ages="19 &amp; 20">Mofiyinfoluwa and Muhammad</author>
+        <date>8/07/2024</date>
+        <!-- taskdescription gives insight into the tasks' requirements-->
+        <taskdescription lang="en"><![CDATA[Collaboratively manage a version control repository using git. Each member must commit regularly
+            to document progress and contributions. Include a changelog.txt detailing each update with
+            authorship and a brief description.]]></taskdescription>
+            <!-- taskexecution provides information on how the task was accomplished-->
+        <taskexecution lang="en"><![CDATA[Task execution entailed the commiting completed assessment tasks to a GitHub repository to track progress and changes. Also included providing a changelog.txt file.]]></taskexecution>
+    </task1>
+    <task2>
+         <!-- Details task on HTML, CSS and JS-->
+        <title lang = "en">HTML, CSS, JS</title>
+        <author gender="female" age="19">Mofiyinfoluwa</author>
+        <date>10/07/2024</date>
+        <taskdescription lang="en"><![CDATA[Design and implement a basic HTML webpage featuring a form with CSS styling, focusing on
+            teamwork in the design and coding process. Develop functionality using the JavaScript Fetch API to handle data submissions, emphasizing
+            collaborative coding and problem-solving.]]></taskdescription>
+        <taskexecution lang="en"><![CDATA[Involved the use of HTML, CSS an JS to create a responsive website that stores client information. Required the implementation of a PHP file.]]></taskexecution>
+    </task2>
+    <task3>
+         <!-- Details task on LaTex-->
+        <title lang="en">LaTex</title>
+        <author gender="male" age="20">Muhammad</author>
+        <date>10/07/2024</date>
+        <taskdescription lang="en"><![CDATA[Create a LaTeX document as a team, detailing the project's scope and findings. Prepare the document with input from all team members, ensuring each section reflects the
+            collaborative effort and understanding of the content.]]></taskdescription>
+        <taskexecution lang="en"><![CDATA[Dealt with creating a LaTex documentation detailing the assessment's scope and findings using OverLeaf.]]></taskexecution>
+    </task3>
+    <task4>
+         <!-- Details task on XML-->
+        <title lang="en">XML</title>
+        <author gender="female &amp; male">Mofiyinfoluwa and Muhammad</author>
+        <date>10/07/2024</date>
+        <taskdescription lang="en"><![CDATA[Design an XML document as a group project, representing structured data in a detailed and
+            organized manner. Collaboratively define the structure and elements of the XML document, ensuring accuracy
+            and completeness.]]></taskdescription>
+        <taskexecution lang="en"><![CDATA[Required the creationn of an XML file from which a schema was made. Also handled the execution of a validation process.]]></taskexecution>
+    </task4>
+</groupcourseworkassessmenttasks>
